@@ -39,4 +39,4 @@ while user_date != '-1':
     else:
         print("Date entered is not valid")
     user_date = input("Enter date: ")
-
+print("Goodbye - See you soon!")
